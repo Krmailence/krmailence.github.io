@@ -1,18 +1,13 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "id": 5,
+    "name": "GO BACK TO SLEEP",
+    "author": "Krmailence",
+    "creators": ["Krmailence"],
+    "verification": "https://www.youtube.com/watch?v=3_uoNM_eILA",
+    "percentToQualify": 3,
+    "password": "Free Copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
         }
     ]
 }
