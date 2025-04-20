@@ -1,5 +1,5 @@
 {
-    "id": 5,
+    "id": "N/A, DM @krmailence on Discord",
     "name": "GO BACK TO SLEEP",
     "author": "Krmailence",
     "creators": ["Krmailence"],
@@ -8,6 +8,10 @@
     "password": "Free Copy",
     "records": [
         {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
